@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\bin\Debug\net6.0\Exercise2 - hadasim.exe
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\bin\Debug\net6.0\Exercise2 - hadasim.deps.json
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\bin\Debug\net6.0\Exercise2 - hadasim.runtimeconfig.json
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\bin\Debug\net6.0\Exercise2 - hadasim.dll
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\bin\Debug\net6.0\Exercise2 - hadasim.pdb
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\Exercise2 - hadasim.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\Exercise2 - hadasim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\Exercise2 - hadasim.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\Exercise2 - hadasim.AssemblyInfo.cs
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\Exercise2 - hadasim.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\Exercise2 - hadasim.dll
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\refint\Exercise2 - hadasim.dll
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\Exercise2 - hadasim.pdb
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\Exercise2 - hadasim.genruntimeconfig.cache
+C:\Users\user1\Desktop\Exercise2 - hadasim\Exercise2 - hadasim\obj\Debug\net6.0\ref\Exercise2 - hadasim.dll
